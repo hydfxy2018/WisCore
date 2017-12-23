@@ -29,6 +29,8 @@ This SDK is used for WisCore hardware development platform base on OpenWrt syste
 
 ## WisCore
 
+Add new branch rc517
+
 [WisCore firmware](https://github.com/RAKWireless/WisCore/tree/master/release/wiscore) update --- November 30 2017
 
 * update the version of libcurl
