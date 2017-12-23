@@ -5,6 +5,8 @@ Otherwise you will be able to use webui cheerfully!**
 
 # release RC517-NOVAD
 
+* The same as rc516 except no VAD
+
 # History Version
 
 ## release Eng-rc516
