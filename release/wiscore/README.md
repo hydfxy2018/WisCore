@@ -5,12 +5,12 @@ Otherwise you will be able to use webui cheerfully!**
 
 # release RC517-NOVAD
 
-# release Eng-rc516
+# History Version
+
+## release Eng-rc516
 
 1. update the version of libcurl
 2. fix stop capture bug
-
-# History Version
 
 ## release - Eng-rc503
 
